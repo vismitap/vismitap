@@ -4,13 +4,13 @@
 
 
 ## Who am I?
-✨ Actively participates in Hackathons and competitions.  <img align="right" src="https://i.imgur.com/HNsGeWj.gif" width="300px">
+✨ Actively participates in Hackathons and Competitions.  <img align="right" src="https://i.imgur.com/HNsGeWj.gif" width="300px">
 
 ✨ Likes to learn new stuff.
 
 ✨ Passionate about OpenSource.
 
-✨ Interested in Web Develpment, Game Development, Mobile App development.
+✨ Interested in Web Develpment, Game Development and Mobile App development.
 
 ✨ Currently learning React.
 
